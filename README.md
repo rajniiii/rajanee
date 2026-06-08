@@ -39,14 +39,6 @@ class RajaneeS:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Frontend & Deploy**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
 **Earlier**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
@@ -55,14 +47,6 @@ class RajaneeS:
 ---
 
 ### Projects
-
-**RAGProbe**
-
-Adversarial evaluation framework for RAG pipelines built on SEC 10-K filings. Surfaces hallucinations, retrieval drift, and context confusion before they hit production.
-
-`LangChain` `ChromaDB` `OpenAI API` `FastAPI` `SEC EDGAR`
-
----
 
 **SowZone** — Code for Climate 2025
 
@@ -79,12 +63,10 @@ Urban agriculture platform for NYC residents — finds idle city land, runs real
 ---
 
 ### Experience
-
-Stevens Office of the Provost — Graduate Assistant
-DigitalDose — Data-Focused Backend Developer & Analyst
+Stevens Institute of Technology — Graduate Assistant, Office of the Provost
+ DigitalDose — Data-Focused Backend Developer & Analyst
 Yibe — Data Engineer
 Iraje Software — Application Support Analyst
-
 ---
 
 ### Open to full-time roles in NY / NJ
