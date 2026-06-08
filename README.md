@@ -70,6 +70,7 @@ Urban agriculture platform for NYC residents — finds idle city land, runs real
 **Yibe** — Data Engineer
  
 **Iraje Software** — Application Support Analyst
+
 ---
 
 ### Open to full-time roles
