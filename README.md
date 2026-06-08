@@ -1,8 +1,9 @@
-# Hi, I'm Rajanee Shenkar 👋
+# Hi, I'm Rajanee 👋
+### I'm glad you're here
 
-I'm a Data and AI Engineer based in Jersey City, NJ — I build pipelines that move data reliably, RAG systems that retrieve accurately, and full-stack products that real people can actually use.
+I'm a Data and AI Engineer — I build pipelines that move data reliably, RAG systems that retrieve accurately, and full-stack products that real people can actually use.
 
-Currently finishing my M.S. in Data Science at Stevens Institute of Technology and actively looking for full-time roles in the NY/NJ area.
+Currently finished my M.S. in Data Science at Stevens Institute of Technology and actively looking for full-time roles.
 
 ---
 
@@ -20,34 +21,59 @@ class RajaneeS:
 
 ---
 
-### Stack
+### Tech I work with
 
-```
-AI / ML        LangChain · OpenAI API · HuggingFace · scikit-learn · ChromaDB · FastMCP
-Data Eng       Python · SQL · Apache Kafka · Databricks · Polars · FastAPI
-Frontend       React · TypeScript · Next.js 14 · Tailwind · Vercel
-Visualization  Tableau
-Earlier        Ethereum · Solidity · Smart Contracts · Web3.js
-```
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Data Engineering**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Frontend & Deploy**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Earlier**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 ---
 
 ### Projects
 
 **RAGProbe**
-Adversarial evaluation framework for RAG pipelines built on SEC 10-K filings.
-Surfaces hallucinations, retrieval drift, and context confusion before they hit production.
+
+Adversarial evaluation framework for RAG pipelines built on SEC 10-K filings. Surfaces hallucinations, retrieval drift, and context confusion before they hit production.
+
 `LangChain` `ChromaDB` `OpenAI API` `FastAPI` `SEC EDGAR`
 
 ---
 
 **SowZone** — Code for Climate 2025
+
 Urban agriculture platform for NYC residents — finds idle city land, runs real soil analysis via ISRIC + USGS APIs, generates AI crop restoration guides, and auto-submits NYC GreenThumb permits.
+
 `Base44` `NYC Open Data` `React` `FastAPI` `Leaflet.js`
 
 ---
 
 **Blockchain Research** — Published, European Chemical Bulletin
+
 `Ethereum` `Solidity` `Smart Contracts` `Web3.js`
 
 ---
@@ -63,10 +89,10 @@ Iraje Software — Application Support Analyst
 
 ### Open to full-time roles in NY / NJ
 
-Data Engineer · AI Engineer · ML Engineer 
+Data Engineer · AI Engineer · ML Engineer
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajanee_Shenkar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajanee-shenkar)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com)
-[![Email](https://img.shields.io/badge/Email-get_in_touch-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:shenkarrajanee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajanee_Shenkar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajanee-shenkar-a1862626b/)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rajanee.shenkar3444/vizzes)
+[![Email](https://img.shields.io/badge/Email-shenkarrajanee%40gmail.com-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:shenkarrajanee@gmail.com)
