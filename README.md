@@ -63,10 +63,14 @@ Urban agriculture platform for NYC residents — finds idle city land, runs real
 ---
 
 ### Experience
-Stevens Institute of Technology — Graduate Assistant, Office of the Provost
- DigitalDose — Data-Focused Backend Developer & Analyst
-Yibe — Data Engineer
-Iraje Software — Application Support Analyst
+ 
+ **Stevens Institute of Technology** — Graduate Assistant, Office of the Provost
+ 
+ **DigitalDose** — Data-Focused Backend Developer & Analyst
+ 
+ **Yibe** — Data Engineer
+ 
+ **Iraje Software** — Application Support Analyst
 ---
 
 ### Open to full-time roles in NY / NJ
