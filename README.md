@@ -1,7 +1,7 @@
 # Hi, I'm Rajanee 👋
 ### I'm glad you're here
 
-I'm a Data and AI Engineer — I build pipelines that move data reliably, RAG systems that retrieve accurately, and full-stack products that real people can actually use.
+I'm a Data and AI Engineer - I build pipelines that move data reliably, RAG systems that retrieve accurately, and full-stack products that real people can actually use.
 
 Currently finished my M.S. in Data Science at Stevens Institute of Technology and actively looking for full-time roles.
 
@@ -12,7 +12,6 @@ class RajaneeS:
     location  = "Jersey City → NYC"
     roles     = ["Data Engineer", "AI Engineer", "ML Developer"]
     education = "M.S. Data Science — Stevens Institute of Technology"
-    building  = "SowZone — civic AI × urban agriculture (Code for Climate 2025)"
     published = "Blockchain research — European Chemical Bulletin"
 
     def build(self) -> str:
@@ -64,10 +63,13 @@ Urban agriculture platform for NYC residents — finds idle city land, runs real
 
 ### Experience
  
- **Stevens Institute of Technology** — Graduate Assistant, Office of the Provost
- **DigitalDose** — Data-Focused Backend Developer & Analyst
- **Yibe** — Data Engineer
- **Iraje Software** — Application Support Analyst
+🎓 **Stevens Institute of Technology** — Graduate Assistant, Office of the Provost
+ 
+💊 **DigitalDose** — Data-Focused Backend Developer & Analyst
+ 
+⚡ **Yibe** — Data Engineer
+ 
+🔧 **Iraje Software** — Application Support Analyst
 ---
 
 ### Open to full-time roles in NY / NJ
